@@ -4,6 +4,8 @@
 
 Moonshine Tiny (27M parameters) fine-tuned on 100 hours of human-transcribed spontaneous Hindi speech, with Devanagari transcripts romanized to Latin script. It runs offline on a laptop CPU at about 12x real time.
 
+**Links:** Demo video: https://youtu.be/8uWZ3VgDSzg | Model (private HF): https://huggingface.co/PrathamR777/moonshine-tiny-hinglish | Dataset (private HF): https://huggingface.co/datasets/PrathamR777/hinglish-moonshine (read-only token provided by email)
+
 ## Results
 
 Held-out clips, normalized (lowercased, punctuation removed) romanized text. 300 test clips: 166 from speakers never seen in training (the headline number) and 134 from speakers that also appear in training.
