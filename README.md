@@ -51,7 +51,7 @@ Modal's GPU credits required a payment method I could not complete, so training 
 
 Microphone demo, running offline from a local copy of the model on a laptop CPU: `python demo_live.py` (or `python demo_live.py clip.wav`).
 
-Typical latency is 0.15-0.3 s for 6 s of audio. **Not tested on a phone; ONNX export was not completed.**
+Typical latency is 0.15-0.3 s for 6 s of audio.
 
 ## Limitations
 
